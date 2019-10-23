@@ -6,8 +6,6 @@ Check out the [post](https://testdriven.io/managing-secrets-with-vault-and-consu
 
 ## Want to use this project?
 
-1. Fork/Clone
-
 1. Build the images and run the containers:
 
     ```sh
